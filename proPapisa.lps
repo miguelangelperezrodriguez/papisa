@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="proPapisa.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="9"/>
+        <CursorPos X="85" Y="13"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="frmprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FrmPrincipal"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="137"/>
+        <CursorPos X="22" Y="152"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="typepapas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="typePapas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="600"/>
+        <CursorPos X="44" Y="679"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="esqpapado.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="esqPapado"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="32" Y="11"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="numerologiaestrella.pas"/>
+        <UnitName Value="NumerologiaEstrella"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="95"/>
+        <CursorPos X="26" Y="110"/>
+        <UsageCount Value="15"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="typeatlantegotico.pas"/>
+        <UnitName Value="typeAtlanteGotico"/>
+        <EditorIndex Value="8"/>
+        <CursorPos X="3" Y="26"/>
+        <UsageCount Value="15"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="esqatlante.pas"/>
+        <UnitName Value="esqAtlante"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="222"/>
+        <UsageCount Value="15"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="esqgotico.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="53"/>
+        <CursorPos X="30" Y="20"/>
+        <UsageCount Value="15"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="esqgoticoocultos.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="20"/>
+        <CursorPos X="41" Y="42"/>
+        <UsageCount Value="15"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="typekier.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="4"/>
+        <CursorPos X="43" Y="13"/>
+        <UsageCount Value="15"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="153" Column="8" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="154" Column="8" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="153" Column="8" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="154" Column="8" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="95" Column="22" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="esqgotico.pas"/>
+        <Caret Line="20" Column="30" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="108" Column="3" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="83" Column="56" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="108" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="123" Column="34" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="107" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="110" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="114" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="115" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="116" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="117" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="119" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="135" Column="8" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="65" Column="33" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="244" Column="8" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="266" Column="8" TopLine="238"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="148" Column="21" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="247" Column="34" TopLine="227"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="85" Column="55" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="89" Column="55" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="167" Column="55" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="168" Column="55" TopLine="155"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="167" Column="55" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="168" Column="55" TopLine="155"/>
+      </Position>
+      <Position>
+        <Filename Value="frmprincipal.pas"/>
+        <Caret Line="153" Column="69" TopLine="134"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
